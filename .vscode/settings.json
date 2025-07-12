@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "dirent.h": "c",
+        "main.h": "c",
+        "string.h": "c",
+        "nodes.h": "c",
+        "optional": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "latency.h": "c",
+        "numaif.h": "c",
+        "mempolicy.h": "c",
+        "stdio.h": "c",
+        "sched.h": "c",
+        "time.h": "c",
+        "unistd.h": "c"
+    }
+}
